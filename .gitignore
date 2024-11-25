@@ -1,0 +1,29 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+media
+
+# Django REST Framework
+*.sqlite3
+*.pyc
+__pycache__/
+
+# Environments
+.env
+venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore all migrations
+**/migrations/*
